@@ -1,10 +1,14 @@
 ### Eae, meu nome é Mauricio 👋
 
-<div align="left">
-  <a href="https://github.com/MauricioDolacio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioDolacio&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-</div>
- 
+<h2>🎭 Sobre mim</h2>
+<ul>
+  <li>🚀 Sou um Desenvolvedor de Softwares</li>
+  <li>🧠 Procuro sempre aprender coisas novas</li>
+  <li>🎓 Cursando Ciências da Computação (5/8)</li>
+  <li>🐍 Venho utilizando o GitHub mais frequentemente só pra alimentar a cobrinha</li>
+  <li>🤠 Falando em cobrinha, minha linguagem favorita é Python</li>
+</ul>
+
 <h2>Tecnologias que conheço</h2>
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -14,5 +18,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
+<h2>Cobrinha</h2>
+  
   ![Snake animation](https://github.com/MauricioDolacio/MauricioDolacio/blob/output/github-contribution-grid-snake.svg)
   
