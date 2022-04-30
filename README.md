@@ -4,7 +4,8 @@
 <ul>
   <li>🚀 Sou um Desenvolvedor de Softwares</li>
   <li>🧠 Procuro sempre aprender coisas novas</li>
-  <li>🎓 Cursando Ciências da Computação (5/8)</li>
+  <li>🎓 Cursando Ciências da Computação (5/8)</li> 
+  <li>🚀 Atualmente projetando um Discord Bot</li>
   <li>🐍 Venho utilizando o GitHub mais frequentemente só pra alimentar a cobrinha</li>
   <li>🤠 Falando em cobrinha, minha linguagem favorita é Python</li>
 </ul>
