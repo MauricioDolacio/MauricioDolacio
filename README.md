@@ -3,7 +3,7 @@
 <h2>🎭 Sobre mim</h2>
 <ul>
   <li>🚀 Sou um Desenvolvedor de Softwares</li>
-  <li>🧠 Estudando HTML, CSS e JavaScript</li>
+  <li>🧠 Estudando Flutter/Dart</li>
   <li>🎓 Cursando Ciências da Computação (6/8)</li> 
   <li>🐍 Venho utilizando o GitHub mais frequentemente só pra alimentar a cobrinha</li>
   <li>🤠 Falando em cobrinha, minha linguagem favorita é Python</li>
