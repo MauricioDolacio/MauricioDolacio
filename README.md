@@ -5,8 +5,6 @@
   <li>🚀 Sou um Desenvolvedor de Softwares</li>
   <li>🎯 Estudando Flutter/Dart</li>
   <li>🎓 Cursando Ciências da Computação (7/8)</li> 
-  <li>🐍 Venho utilizando o GitHub mais frequentemente só pra alimentar a cobrinha</li>
-  <li>🤠 Falando em cobrinha, minha linguagem favorita é Python</li>
 </ul>
 
 <h2>👽 Tecnologias que conheço</h2>
