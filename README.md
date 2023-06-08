@@ -2,7 +2,8 @@
 
 <h2>🎭 Sobre mim</h2>
 <ul>
-  <li>🚀 Sou um Desenvolvedor de Softwares</li>
-  <li>🎯 Estudando Flutter/Dart</li>
+  <li>🚀 Sou um Dev Mobile</li>
+  <li>🎯 Desenvolvo em Flutter</li>
+  <li>📚 Atualmente estudando Kotlin</li>
   <li>🎓 Cursando Ciências da Computação (7/8)</li> 
 </ul>
