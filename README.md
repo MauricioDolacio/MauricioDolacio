@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>🎓 Bachelor degree in Computer ScienceP<br>📚 I'm currently studying Machine Learning, LLM<br>🔭 Goals: Working with ML and helping people on open source projects<br>💻 Trying max current streak here</p>
+<p align="left">✨ Creating bugs since 2020<br>🎓 Bachelor degree in Computer Science<br>📚 I'm currently studying Machine Learning, LLM<br>🔭 Goals: Working with ML and helping people on open source projects<br>💻 Trying max current streak here</p>
 
 ###
 
